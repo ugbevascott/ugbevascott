@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ugbevascott
-- 👀 I’m interested in devops and gaming
+- 👀 I’m interested in devops engineering, SRE, AWS Cloud and platform Engineer and gaming
 - 🌱 I’m currently learning devops engineer
 - 💞️ I’m looking to collaborate on multiple projects with big compaines
 - 📫 How to reach me, just follow me on instagram @Scott__ish_
